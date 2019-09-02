@@ -1,0 +1,11 @@
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.vbprojAssemblyReference.cache
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\Symon_Crypt.Main.resources
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\Symon_Crypt.Resources.resources
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.vbproj.GenerateResource.cache
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.vbproj.CoreCompileInputs.cache
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\bin\Debug\SymonCrypt.exe
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\bin\Debug\SymonCrypt.pdb
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\bin\Debug\SymonCrypt.xml
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.exe
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.xml
+S:\[IT] Informatique\Projets\AutoIT3_VB_Crypter\Builder\obj\Debug\SymonCrypt.pdb
