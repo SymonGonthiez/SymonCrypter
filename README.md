@@ -2,6 +2,8 @@
 
 This is a crypter coded in VB.Net and Autoit3 in order to crypt ".exe" files and make them undetected by antivirus.
 
+This Project was Coded for SECURITY Purpose. Use it only to  Protect your Files Against Reverse Engineering | I don't take any responsibility for any other abuse you conduct with this Software ~
+
 ## Installation
 
 Compile it using Visual Studio ~
